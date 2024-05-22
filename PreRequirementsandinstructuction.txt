@@ -1,0 +1,17 @@
+Download Xamp
+Open Xamp and start Apache , MySql
+Extract the zip file created by me
+type localhost/phpmyadmin and enter in your browser
+Create database with the same name as i have given in my source file i.e aqpg_db with collation on
+Import database aqpg_db from your local disk
+Now copy The unzipped source code file to Xamp/htdocs folder
+To run , open your browser and type localhost/aqpg/
+
+Admin-aritra
+Password-2003
+Staff-Shubheccha
+Password-2002
+
+
+User-anil@gmail.com
+Password-2003
